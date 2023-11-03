@@ -1,1 +1,0 @@
-complet du fichier .gitignore
