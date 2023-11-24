@@ -1,2 +1,5 @@
 bonjour
+HEAD
 salut
+control
+ control
